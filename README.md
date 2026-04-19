@@ -24,7 +24,7 @@
 
 ## 🚀 How to Run
 Clone the repo:  
-`git clone https://github.com/<your-username>/VoiceInsight.git`  
+`git clone https://github.com/rishabhlingam/VoiceInsight.git`  
 `cd VoiceInsight`
 
 Install dependencies:  
